@@ -88,6 +88,8 @@ Este é um projeto web desenvolvido com **Python (Flask)** que permite o gerenci
   - Usuário: `joao` / Senha: `789`
 
 ---
+👨‍💻 Autor
+João Paulo da Silva Pereira - GitHub
 
 ## ⚠️ Observações
 
